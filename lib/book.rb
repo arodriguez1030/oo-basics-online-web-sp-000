@@ -1,5 +1,5 @@
 class Book
-  def initialite(title)
+  def initialize(title)
     @title = title
   end
   def title=(title)
